@@ -6,7 +6,7 @@
 
 然后打开 vivado
 
-![tcl_console](/home/life/Code/FPGA/neorv32_ebaz4205/doc/image/tcl_console.png)
+![tcl_console](https://github.com/ATmega8/neorv32_ebaz4205/blob/18271bd9b3ad066eb73289dc05a3f683941b8af4/doc/image/tcl_console.png)
 
 在 tcl 控制台中输入
 
@@ -22,6 +22,6 @@ source ./neorv32_ebaz4205.tcl
 
 然后在创建完成的工程里生成一下 HDL Wrapper
 
-![hdl](/home/life/Code/FPGA/neorv32_ebaz4205/doc/image/hdl.png)
+![hdl](https://github.com/ATmega8/neorv32_ebaz4205/blob/18271bd9b3ad066eb73289dc05a3f683941b8af4/doc/image/hdl.png)
 
 接下来就可以综合直至生成 bitstream
